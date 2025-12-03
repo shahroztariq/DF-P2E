@@ -1,6 +1,8 @@
+# We are working on version 2.0 of our DF-P2E tool and will share it soon.
+
 # 🧠 DF-P2E: From Prediction to Explanation  
 **From Prediction to Explanation: Multimodal, Explainable, and Interactive Deepfake Detection Framework for Non-Expert Users**  
-📍 *Accepted at ACM Multimedia 2025 (ACM MM '25), Dublin, Ireland*
+📍 *ACM Multimedia 2025 (ACM MM '25), Dublin, Ireland*
 
 ## 🔍 Overview
 **DF-P2E** (Deepfake: Prediction to Explanation) is a novel multimodal framework designed to make deepfake detection interpretable, accessible, and interactive, especially for non-expert users in forensic, journalistic, and legal contexts.
